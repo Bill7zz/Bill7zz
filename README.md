@@ -1,9 +1,7 @@
 <h1 align="center">Hi there! 👋, I'm Billy!</h1>
-<h3 align="center">System Analist</h3>
+<h3 align="center">System Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bill7zz&label=Profile%20views&color=0e75b6&style=flat" alt="bill7zz" /> </p>
-
-- 📝 I am a graduated systems engineering.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
