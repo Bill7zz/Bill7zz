@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bill7zz&label=Profile%20views&color=0e75b6&style=flat" alt="bill7zz" /> </p>
 
-- 📝 I am a fourth year systems engineering student. UAI - [Universidad Abierta Interamericana](https://uai.edu.ar/)
+- 📝 I am a graduated systems engineering.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
